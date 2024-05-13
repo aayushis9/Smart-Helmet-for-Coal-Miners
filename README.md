@@ -1,6 +1,5 @@
 #Smart Helmet for Coal Miners
 Research paper published on International Journal for Research in Applied Science and Engineering Technology (IJRASET)
-[Research Paper Published.pdf](https://github.com/aayushis9/Smart-Helmet-for-Coal-Miners/files/15288780/Research.Paper.Published.pdf)
 https://www.ijraset.com/research-paper/smart-helmet-for-miners
 
 
